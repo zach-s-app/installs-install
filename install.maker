@@ -1,0 +1,71 @@
+cd
+mkdir made_installs
+cd made_installs
+mkdir 1
+mkdir 2
+mkdir 3
+mkdir 4
+mkdir 5
+mkdir 6
+mkdir 7
+mkdir 8
+mkdir 9
+mkdir 0
+cd 1
+touch Install-made_1.txt
+nano Install-made1.txt
+cd
+cd mkdir made_installs
+cd 2 
+touch n-a
+cd
+cd made_installs
+cd 3
+wget https://www.google.com
+cd
+cd made_installs
+cd 4
+git clone https://gitHub.com/zach-s-app/zach.com
+cd
+cd made_installs
+cd 5
+mkdir 5-storage
+cd 5-stoage
+touch storage.zach
+cd
+cd made_installs
+cd 6
+touch this_is_nothing
+cd
+cd made_installs
+cd 7
+mkdir git.runner
+cd git.runner
+mkdir bash_runner
+cd bash_runner
+touch bash.code
+nano bash.code
+cd
+cd made_installs
+cd 8
+ls
+figlet this_one_is_for_if_you_want_grfixe_in_.txt
+cd
+cd made installs
+cd 9
+mkdir git.depenencys
+cd git.depenencys
+touch bash.run
+nano bash.run
+bash bash.run
+cd
+cd made_installs
+cd 0
+touch this_is_a_place-holder
+cd
+cd made_installs
+figlet run these in order form 1 to 9 and up to 0
+cd 0
+touch run_stuff
+nano run_stuff
+git clone https://github.com/zach-s-app/run
